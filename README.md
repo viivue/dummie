@@ -24,6 +24,10 @@ Here some shortcut to quickly get a dummy image, open these URLs in a new tab.
 - https://picsum.photos/1024
 - https://picsum.photos/1280
 
+#### Logos
+
+For dummy logos: https://logoipsum.com/.
+
 ### How to use?
 
 Clone this repo to your local machine or directly download any files that you need.
